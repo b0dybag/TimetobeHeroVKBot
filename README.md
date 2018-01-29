@@ -1,0 +1,2 @@
+# TimetobeHeroVKBot
+AHK script
